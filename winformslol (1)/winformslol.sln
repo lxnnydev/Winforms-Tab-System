@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winformslol", "winformslol\winformslol.csproj", "{ECCC4FB5-4346-4100-AE2E-A21F9D723E02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECCC4FB5-4346-4100-AE2E-A21F9D723E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECCC4FB5-4346-4100-AE2E-A21F9D723E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECCC4FB5-4346-4100-AE2E-A21F9D723E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECCC4FB5-4346-4100-AE2E-A21F9D723E02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25769A94-275D-4B6F-A426-A60E3D729500}
+	EndGlobalSection
+EndGlobal
